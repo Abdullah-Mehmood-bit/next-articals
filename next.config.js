@@ -7,8 +7,13 @@ const nextConfig = {
       {
         source: '/',
         destination: 'https://www.infoanimalscare.com/?p=167&fbclid=IwAR09OFgBapd_rzfl_BFQTkx1OTGAhaxakeg4C5eCdTZK-MYlpWpNTRJ1hxU',
-        permanent: false
-      }
+        permanent: true
+      },
+      {
+        source: '/articaltow',
+        destination: 'https://www.infoanimalscare.com/?p=167&fbclid=IwAR09OFgBapd_rzfl_BFQTkx1OTGAhaxakeg4C5eCdTZK-MYlpWpNTRJ1hxU',
+        permanent: true
+      },
     ];
   }
 }

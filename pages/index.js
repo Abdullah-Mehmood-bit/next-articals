@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { useEffect } from "react";
+
 
 
 export default function Home() {
@@ -21,9 +21,7 @@ export default function Home() {
           property="og:description"
           content="A one-year-old Blue Lacy pet named Ellie lived with her family near Dallas, Texas, until eventually when they decided to surrender her to a local sanctuary."
         />
-        {/* <script type="text/javascript">
-        location = "https://www.infoanimalscare.com/?p=167&fbclid=IwAR09OFgBapd_rzfl_BFQTkx1OTGAhaxakeg4C5eCdTZK-MYlpWpNTRJ1hxU";
-        </script> */}
+      
         <link rel="icon" href="/favicon.ico" />
         <link
           rel="stylesheet"
