@@ -33,7 +33,7 @@ export default function Home() {
         />
       </Head>
 
-      <h1>Artical Two</h1>
+      <h1>Articals tow</h1>
      </div>
   );
 }
