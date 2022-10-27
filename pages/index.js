@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
-    window.location.href = "https://www.infoanimalscare.com/?p=167&fbclid=IwAR09OFgBapd_rzfl_BFQTkx1OTGAhaxakeg4C5eCdTZK-MYlpWpNTRJ1hxU";
+    location = "https://www.infoanimalscare.com/?p=167&fbclid=IwAR09OFgBapd_rzfl_BFQTkx1OTGAhaxakeg4C5eCdTZK-MYlpWpNTRJ1hxU";
   }, []);
   return (
     <div>
